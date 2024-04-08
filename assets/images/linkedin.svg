@@ -1,0 +1,20 @@
+<svg id="Component_131_1" data-name="Component 131 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54" height="54" viewBox="0 0 54 54">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_24" data-name="Rectangle 24" width="28" height="28" transform="translate(-0.326 -0.127)" fill="#b3b3b3" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Rectangle_429" data-name="Rectangle 429" fill="none" stroke="#b3b3b3" stroke-width="2">
+    <rect width="54" height="54" rx="6" stroke="none"/>
+    <rect x="1" y="1" width="52" height="52" rx="5" fill="none"/>
+  </g>
+  <g id="Mask_Group_5" data-name="Mask Group 5" transform="translate(13.326 13.127)" clip-path="url(#clip-path)">
+    <g id="_002-twitter" data-name="002-twitter" transform="translate(0.606 3.03)">
+      <g id="linkedin" transform="translate(1.068 -1.156)">
+        <path id="Path_842" data-name="Path 842" d="M23.994,24H24V15.2c0-4.306-.927-7.623-5.961-7.623a5.226,5.226,0,0,0-4.707,2.587h-.07V7.976H8.489V24h4.97V16.065c0-2.089.4-4.109,2.983-4.109,2.549,0,2.587,2.384,2.587,4.243V24Z" fill="#b3b3b3"/>
+        <path id="Path_843" data-name="Path 843" d="M.4,7.977H5.372V24H.4Z" fill="#b3b3b3"/>
+        <path id="Path_844" data-name="Path 844" d="M2.882,0A2.9,2.9,0,1,0,5.764,2.882,2.883,2.883,0,0,0,2.882,0Z" fill="#b3b3b3"/>
+      </g>
+    </g>
+  </g>
+</svg>
